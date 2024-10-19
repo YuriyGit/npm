@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "bugs": {
+    "url": "",
+    "email": ""
+  }
+}
